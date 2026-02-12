@@ -63,9 +63,9 @@ This repository contains my practical work for **Oracle Pluggable Database (PDB)
 ---
 
 ## Challenges Faced
-- OEM login was confusing due to **multiple browser popups**.  
+ 
 - SYS user password was initially unknown; had to reset it.  
-- EM Express on Windows does not allow SQL queries directly in the browser.  
+er.  
 - PDB not immediately visible in EM Express; had to rely on SQL*Plus verification.
 
 ---
